@@ -48,7 +48,7 @@ done < "$OUT_FILE"
 rm "$OUT_FILE"
 
 else
-echo "This script requires exactly one argument:"
-echo "Usage: $0 DIR"
+echo -e "This script requires exactly one argument:"
+echo -e  "Usage: $0 DIR"
 exit 1
 fi
