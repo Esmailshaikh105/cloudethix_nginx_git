@@ -1,5 +1,5 @@
 #!/bin/bash
 
-VAR="hello ismail"
+VAR="hello ismail hdhd"
 
-echo "$VAR"
+echo -e  "$VAR"
